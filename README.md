@@ -1,5 +1,7 @@
 # **Cub3D: A First-Person 3D Maze Exploration Game*
 
+![gif](./ressources/readme/cub3d_demo.gif)
+
 ## **Overview**
 
 Cub3D is a 42 school project that challenges you to create a dynamic first-person view inside a 3D maze using **raycasting**, the technique popularized by games like **Wolfenstein 3D**, the first-ever First-Person Shooter (FPS). This project introduces the use of the really simple **MiniLibX** library for rendering 3D graphics in C.
@@ -73,6 +75,7 @@ C    22,50,85
 ## **MiniLibX and Raycasting**
 
 The **MiniLibX** library (or MLX) provides a simple framework for working with graphics in 42 projects. It allows creating windows, drawing pixels, handling keyboard/mouse events, and displaying images. MLX was crucial for rendering the game visuals in Cub3D, and its use is a core part of this project.
+-> **[CODAM Minilibx](https://github.com/codam-coding-college/MLX42https://ft-transcendence.pro)**
 
 **Raycasting**, on the other hand, is a technique used to render 3D-like environments in 2D by calculating the distance between the player and the objects around them. Cub3D employs this technique to simulate depth and perspective as players navigate the maze.
 
@@ -92,5 +95,6 @@ The **MiniLibX** library (or MLX) provides a simple framework for working with g
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx.html): Guides on using the MiniLibX library effectively.
 - [Game Engine Black Book: Wolfenstein 3D](https://fabiensanglard.net/gebbwolf3d/book.shtml): A deep dive into the technical development of Wolfenstein 3D.
 
-## Demo
+## Rating
 
+![rating](./ressources/readme/rating.png)
